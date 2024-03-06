@@ -3,6 +3,7 @@ package hello.core.member;
 
 public class Member {
 
+    public static Member member;
     private Long id;
     private String name;
     private Grade grade;
